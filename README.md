@@ -179,7 +179,8 @@ void Error_Handler(void)
 
 ## Output screen shots of Serial port utility   :
  
- 
+ <img width="1168" height="774" alt="image" src="https://github.com/user-attachments/assets/003e8906-6668-4de7-9376-50342407afb6" />
+
  
  
 ## Result :
